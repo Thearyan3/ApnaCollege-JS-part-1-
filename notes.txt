@@ -40,3 +40,20 @@ The order is : (i). ()
 
 7. let keyword(keywords are reserved words) 
 --> Syntax of declaring Variables
+
+8. const keyword 
+--> values of constants can't be changed with re-assignment & they can't be re-declare.
+
+9. var keyword
+--> Old Syntax of writing Variables.
+
+10. Practice Qs 
+(i). What is the value of age after this code runs?
+let age = 23;
+age + 2; // after 2 years
+
+(ii). What is the value of avg after this code runs?
+let hindi = 80;
+let eng = 90;
+ let math = 100;
+ let avg = (hindi + eng + math) / 3;
