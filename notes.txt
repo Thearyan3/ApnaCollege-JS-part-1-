@@ -16,9 +16,9 @@ here age is a variable and 23 is the value of the variable.
 (i). Primitive Datatypes 
 a. Numbers - positive, negative, integers, floating numbers with decimal. In JavaScript, there is a limit on the numbers which means that if we take a number like 0.999999999999 then it will convert into the nearest integer number which in this case will be 1.
 b. Strings
-c. Boolean
-d. undefined
-e. null
+c. Boolean - Boolean represents a truth value -> true or false / yes or no.
+d. undefined - A variable that has not been assigned a value is of type undefined.
+e. null - The null value represents the intentional absence of any object value. To be explicitly assigned.
 f. Bigint
 g. Symbol
 
@@ -75,5 +75,27 @@ let eng = 90;
  --> Way of writing Indentifiers
  camelCase (JS nameing convention)
  snake_case and PascalCase.
- 
-  
+
+13. What is TypeScript? 
+--> TypeScript is sort of next version of JavaScript which is now used by many companies.
+The difference between JavaScript and Typescript is about Typed.
+For Ex : In TypeScript, if you define a = 5; which is a number. then you cannot define a = true, which is a string so you can't change the datatype of any variable in Typescript. But in JS , you can.
+Typescript is Static Typed means fixed, where JS is dynamic Typed means can be change (Designed by Microsoft).
+
+14. String in JS
+--> Strings are text or sequence of characters. It is used within the single or double quotes.
+
+15. String indices (index)
+--> Javascript, c++, Java are the 0 based indexing language which means index begins with 0 in these leanguages.
+
+16. Concatenation in String 
+--> adding strings together 
+
+
+17. Practice Qs of JS part-1
+(i). Declare your name as a string and print its length in JS.
+(ii). Declare your first anme as a string and print its first character. 
+(iii). Declare your first name as a string and print its last character. 
+(iv). What is the output of following code: 
+"apnacollege" + 123 ;
+(v). What are lengths of an empty string & a string with a single space?
