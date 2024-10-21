@@ -26,3 +26,17 @@ g. Symbol
 --> addition, subtraction, multiplication, division, modulo, Exponential power operator.  
 For Ex : a + b;
 here a and b are operands and + is a operator.
+
+5. NaN in JS (Not a Number)
+--> The NaN global property is a value representing Not-a-Number.
+It means it represents those number which are mathematically invalid like (0/0).
+
+6. Opertor Precedence
+--> This is the general order of solving an expression.
+The order is : (i). ()
+               (ii). **
+               (iii). */%
+               (iv). +-
+
+7. let keyword(keywords are reserved words) 
+--> Syntax of declaring Variables
