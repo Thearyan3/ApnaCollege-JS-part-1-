@@ -1,0 +1,28 @@
+1. Using Console - Console means Javascript.
+--> Console uses the concept of REPL (Read-Evaluate-Print-Loop).
+
+It has four steps :
+(i). Read : It reads the input from the user.
+(ii). Evaluate : It calculate or compute the expression defined by the user like addition, subtraction etc. 
+(iii). Print : It prints the output on the console like if we write 1 on the console then it will print 1 only and if we write 1 + 2 on the console then it will print 3 on the console.
+(iv). Loop : Loop makes sure that the whole process is repeated until the user stops giving input.
+
+2. Variables - A variable is simply a name of the storage location.
+For Ex : age = 23;
+here age is a variable and 23 is the value of the variable.
+
+3. Datatypes in JS 
+--> There are two types of datatypes in JS - Primitive and Non-Primitive.
+(i). Primitive Datatypes 
+a. Numbers - positive, negative, integers, floating numbers with decimal. In JavaScript, there is a limit on the numbers which means that if we take a number like 0.999999999999 then it will convert into the nearest integer number which in this case will be 1.
+b. Strings
+c. Boolean
+d. undefined
+e. null
+f. Bigint
+g. Symbol
+
+4. Operations 
+--> addition, subtraction, multiplication, division, modulo, Exponential power operator.  
+For Ex : a + b;
+here a and b are operands and + is a operator.
