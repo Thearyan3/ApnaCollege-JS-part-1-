@@ -57,3 +57,23 @@ let hindi = 80;
 let eng = 90;
  let math = 100;
  let avg = (hindi + eng + math) / 3;
+ 
+ (iii). What is the value of each variable in each line of code?
+ let num = 5;
+ let newNum = num++;
+ newNum = ++num;
+
+ 11. Indentifier Rules 
+ --> All JavaScript variables must be identified with unique names (Indentifiers).
+ a. Names can contain letters, digits, underscore, and dollar signs. (no space).
+ b. Names must beign with a letter.
+ c. Names can also begin with $ and _.
+ d. Names are case sensitive (y and Y are different variables).
+ e. Reserved words (like JavaScript keywords) CANNOT be used as names.
+
+ 12. camelCase 
+ --> Way of writing Indentifiers
+ camelCase (JS nameing convention)
+ snake_case and PascalCase.
+ 
+  
